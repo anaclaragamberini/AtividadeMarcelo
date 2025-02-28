@@ -1,8 +1,10 @@
-// TAD para lista de inteiros usando Java ArrayList
-public class ListaNumerosInteiros {
+import java.util.ArrayList;
+import java.util.List;
+
+public class Lista {
     private ArrayList<Integer> lista;
 
-    public ListaNumerosInteiros() {
+    public Lista() {
         lista = new ArrayList<>();
     }
 
