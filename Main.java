@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Após remover 'Elemento 3':");
         vetor.imprimirElementos();
 
-        ListaNumerosInteiros lista = new ListaNumerosInteiros();
+        ListaNumerosInteiros lista = new Lista();
         lista.adicionarNumero(10);
         lista.adicionarNumero(20);
         lista.adicionarNumero(30);
